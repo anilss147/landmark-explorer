@@ -1,0 +1,17 @@
+{
+  "variant": "professional",
+  "primary": "hsl(222.2 47.4% 11.2%)",
+  "secondary": "hsl(210 50% 40%)",
+  "appearance": "dark",
+  "radius": 0.5,
+  "font": {
+    "family": "Inter, sans-serif",
+    "size": "16px"
+  },
+  "spacing": {
+    "small": "4px",
+    "medium": "8px",
+    "large": "16px"
+  },
+  "appearanceOptions": ["dark", "light"]
+}
